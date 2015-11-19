@@ -21,8 +21,6 @@ public class Balancer
 	
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
-        
         //String input = "aaa{bbbbbb[ccc(ddd)dd]www}";
         //String input = "{{{}}}[[[[[[";
         //String input = "{{{}}}[[[[[[";
