@@ -1,18 +1,14 @@
 package com.prakash.sample;
 
-import java.util.Arrays;
 import java.util.HashMap;
-import java.util.List;
 import java.util.Map;
 import java.util.Stack;
-import java.util.stream.Stream;
-import java.util.stream.StreamSupport;
 
 /**
  * Hello world!
  *
  */
-public class App 
+public class Balancer 
 {
 	
 	static Map<String, String> pair = new HashMap<>();
